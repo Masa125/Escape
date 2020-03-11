@@ -1,28 +1,28 @@
-## Tasks:
-    ✔ create README file @done(2020-03-10 20:54) @project(## Tasks)
-    ✔ create changelog @done(2020-03-10 20:54) @project(## Tasks)
-    ✔ create main game file @done(2020-03-10 20:54) @project(## Tasks)
-    ✔ upload files to GitHub @done(2020-03-10 20:54) @project(## Tasks)
+Tasks:
+    ✔ create README file @done(2020-03-10 20:54) @project(Tasks)
+    ✔ create changelog @done(2020-03-10 20:54) @project(Tasks)
+    ✔ create main game file @done(2020-03-10 20:54) @project(Tasks)
+    ✔ upload files to GitHub @done(2020-03-10 20:54) @project(Tasks)
 
-## Inventory:
-    ✔ create inventory @done(2020-03-10 20:54) @project(## Inventory)
+Inventory:
+    ✔ create inventory @done(2020-03-10 20:54) @project(Inventory)
     ☐ remove inventory when used
     ☐ add items when collected
 
-## Map:
+Map:
     ☐ create map of the dungeon
     ☐ add chests to the map
 
-## Enemies:
+Enemies:
     ☐ add enemies
     ☐ add enemy attacks
     ☐ add enemy dialogue
 
-## Game:
-    ✔ think of a name for the game @done(2020-03-10 20:54) @project(## Game)
-    ✔ finish the pseudocode @done(2020-03-10 20:54) @project(## Game)
+Game:
+    ✔ think of a name for the game @done(2020-03-10 20:54) @project(Game)
+    ✔ finish the pseudocode @done(2020-03-10 20:54) @project(Game)
 
-## Player:
+Player:
     ☐ add player
     ☐ add player movement
     ☐ add player attacks
