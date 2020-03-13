@@ -10,8 +10,8 @@
 # Pairs the player's name with a small description of what the player can do by
 # using a list in the player's description. The player's name along with their
 # description is printed.
-player = {'Nicholas': ["use his fists to attack enemies",
-          'find items to attack the enemies with']}
+player = {'Nicholas': {"use his fists to attack enemies",
+          'find items to attack the enemies with'}}
 for player, info in player.items():
     print(f"The player's name is {player.title()} and he can either:")
     for information in info:
